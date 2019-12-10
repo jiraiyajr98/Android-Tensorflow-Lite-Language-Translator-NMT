@@ -1,4 +1,4 @@
-# Android-Tensorflow-Lite-Language-Translator-NMT
+# Android Tensorflow Lite Language Translator NMT
 
 ## Goal of the Project
 
